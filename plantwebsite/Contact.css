@@ -10,6 +10,8 @@ padding: 50px 100px;
 display: flex;
 justify-content: center;
 align-items: center;
+background-image: linear-gradient(to bottom,green,yellow);
+border:18px solid black;
 }
 .contact .content{
 max-width: 800px;
