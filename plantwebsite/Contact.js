@@ -46,16 +46,16 @@ const App = () => {
     <form>
     <h2>Send Message</h2>
     <div className="inputBox">
-    <input type="text" required/>
     <span>Full Name</span>
+    <input id="name" type="text" required/>
     </div>
     <div className="inputBox">
-    <input type="email" required/>
     <span>Email</span>
+    <input id="name" type="email" required/>
     </div>
     <div className="inputBox">
-    <textarea required></textarea>
     <span>Type your Message</span>
+    <textarea id="name" required></textarea>
     </div>
     <div className="inputBox">
     <input type="submit" value="Send"/>
